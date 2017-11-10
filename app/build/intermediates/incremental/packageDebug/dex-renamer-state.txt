@@ -1,0 +1,7 @@
+#Sun Nov 05 19:16:11 IST 2017
+base.0=D\:\\Android\\AnytimePay2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_444a711952753b8ce4fb28003bcf7e695d0011b6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\AnytimePay2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dbaa30417374bee6a2d9f4f168f60646fd59acee\\classes.dex
+base.1=D\:\\Android\\AnytimePay2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dbaa30417374bee6a2d9f4f168f60646fd59acee
+file.0=D\:\\Android\\AnytimePay2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_444a711952753b8ce4fb28003bcf7e695d0011b6\\classes.dex

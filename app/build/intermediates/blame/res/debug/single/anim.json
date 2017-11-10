@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_scale_down.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ecc0e294dcebaa3e2d9cec37fa3e3b415841dd0a\\output\\res\\anim\\fab_scale_down.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_in_from_right.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ecc0e294dcebaa3e2d9cec37fa3e3b415841dd0a\\output\\res\\anim\\fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_in_from_left.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ecc0e294dcebaa3e2d9cec37fa3e3b415841dd0a\\output\\res\\anim\\fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_out_to_left.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ecc0e294dcebaa3e2d9cec37fa3e3b415841dd0a\\output\\res\\anim\\fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_out_to_right.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ecc0e294dcebaa3e2d9cec37fa3e3b415841dd0a\\output\\res\\anim\\fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_scale_up.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ecc0e294dcebaa3e2d9cec37fa3e3b415841dd0a\\output\\res\\anim\\fab_scale_up.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\\output\\res\\anim\\design_snackbar_in.xml"
+    }
+]

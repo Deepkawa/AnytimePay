@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\fde1ed090f3036fb31305f5a023e89501e192b51\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ca4f6887b397c9948d413dd00a5e0d50d7791cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\7414ac0025ca92dfb83b8dece30288bb048dac43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ebd0dd777b65998c120b0123bf717dfb6befd6a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\da4c0c6a46a25dcb048a830541d45f5fdbffd984\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5ae7f067aa1183393968b59ceb52d6753407f2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\a4bf7f0d0ce7f38c6d6cfa9770663d67b8ea1f98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38c0f2d5be3c27ed0adf9aebe7b8e3aa0d78b9fb">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50dc0600df0d0715aace33d42d22db2fefff4ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\c96f3f83d16578eb463119d12a61fc29f41c725d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b6ba0a40db16fc75e9053ba8ab5cd29a8a9973c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_b8b34ac11507e5bfc8c4a438bf5d528fd7c53be7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\6c35e26eea47868f822b4f8e21b1364fea659bdc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4ac27df08866c867ba4826f9d3d291bd4c29984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\4c9b53a7f65c4d34772d0da348870a41afc0f5c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e351f348b7974aebbd70ccbe35e2a899e98dd36a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\ba470510b383d51a8d50109d404b4e82a4bdd5dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a159a8cdf9970a8e7c7d7736c0138c3f2f6aed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\15669d69b3478ec149ad10b1dfd05312209e041e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc7fbbe80b2e5c0d0c2648143e289f3a794d5a38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\140dc4dabd6ca201671122edc6eec6c91ff5f5cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81a2362d4d06738937bef0dd2908f7f857540a39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\2c9ccd7fcb0ff20a5139b06b502bf3bbb0fa30b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="52339832d252da4328c5ffcacbc205268346362a">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9018e2a833af9b812ae8442b72b514b8d0639cb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\ecc0e294dcebaa3e2d9cec37fa3e3b415841dd0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d604623c56b52b2b08ccdcbbc5a990dc8bf7c44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_6a407586acf324010970cda51215ba0590a6318b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\be2eacb65265d15561631d6bd2a9f98a64d8b1d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7058bce7e91ddb18e2e07b0b699019039b87e47b">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d6a43747a5dcf6194e0b557648ee7d2732bbc39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\a26b86c35ea41d2003f5b0cd524988d3700a4b1f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d922bcbfd8d854e7877f2303998115a23622652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_2369968f1fc6ade2f6fe014101eb02d0a821e22d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AnytimePay2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="265bf0ee5c22876bd8be0211a8bafac8c2e1068f">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dbaa30417374bee6a2d9f4f168f60646fd59acee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61959b5477d11eb965478b9611bd9c9f16b952a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\1dfafefcbd30a91bc160b8ccdda7b366df0b90ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73c80b05a390e8319d1ef7a236739cd610c8f774">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1026215a97588773c8e0f30bfceec21000b29c39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\083a410bc61e83b9b0db4967127d04847182cc55\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fc50f98f60f8525fc40cf5c75188e1c202b2376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\2fb1750301301c1dfa6e18170cad897460c67a91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e079a87b919e60269d52c29562ddda8a515fcfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\78e0022f6206761e645f498a685c5c8b981fe9ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8fdaee52d5f8cb303a084d8d5ee915fe8dbc18d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\a66015a92925ed1dd8d94af66e247e6a74a5afc7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2cadea4d8a1a5b5c4e5f0dc99a99a43774f5e6e">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd06b42269b5da079948ca3989bf34b1e8987c86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\fab2f4c324e600b3b436f367194c7120bbcd79d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ed902918504b671e285a7bf0135f4ef5bcefae0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\fdd162b4d9e2c13f9e49146693f5ac7380f2695a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddad87c8a63403a189493017825e0e9d41fa24aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c765d676358d5edaa95216344afac64e68a09d1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\f9a462739590856143944de523e07a5099130c8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40a7dd2beae663c58360c0da65ec8c69728528ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\594e91ebdcfaedca909500d6b9cc556f6977c4ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5de6988ff472114428b90294be81a28e7dfc2a93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\e174ef420564c9a449ddb5e0a057043857eedd19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23db083da4d9f2e1b3b762cc00a3e6cc14df3548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\35e6cc5629382c74c498028b110ffafdf368dae7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb2170ed218421d2284d78a69f67a494b8a47fc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\e8ba92c21d87d05334bc0b243ad85742ec1a3fb4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49546a2f80bcfcaa3b4f321f2e9fa05767c5afe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\280528c4cc15561a980fdbda8bf73daf863cf020\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e2a0c980e063c8873cc0f80ab95687b8b4c3216\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AnytimePay2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_444a711952753b8ce4fb28003bcf7e695d0011b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_4414985f712ba15ad4b5b08f18ca8514772a8b56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\1df9088b8c8a0838fed19c92796df3375ad83f5f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f2bc6511ac941be044dec1749a7bd91755bccdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\d3dc54f87c88b074949b8c81ea3ff2cf218811d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8893abbe23bda61d8b784630ea33a3940637e8ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\874552c0752daafeed31334d38b50e1b06aa8106\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_caf1268ee9c6ec4e8454ba11b1fd7c937b0db452\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\477a87b4d3c84b7a2173aa09cbdeba9aa7788815\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0742dde2f0bac41aaa64ee07b386ea7d5661f30c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\fa89722dcd5d398b46a48d536809ca2578d66287\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_100b484dcf465dc8d93ce16d1853e3b6fb2736a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\6d3e6a2d83f02d439c6f3ec79963570674a53a26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31f004ff0b3464b497a1f47e91e71569e9ee6707\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\f521def391c242efa23c980a4496108b65d66cc8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23066baef7d38fe41ae0d4fdb65616307549bd0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_4db24b9ca22284f48ba93ed9ebb0669e4971ec7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deep\.android\build-cache\660a09d2a81b4ac8365119f42f157fbb2065af77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Android\AnytimePay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d75760989ef3e591bfb2c75bf5345dc923ba9a49\classes.dex" />
+    </item>
+
+</items>

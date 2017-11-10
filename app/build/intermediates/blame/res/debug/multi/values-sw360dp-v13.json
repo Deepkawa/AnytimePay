@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 62,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 62,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 56,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 56,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 50,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 50,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 49,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 49,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 53,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 53,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 55,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 55,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 52,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 52,
+                        "endOffset": 500
+                    }
+                }
+            }
+        ]
+    }
+]

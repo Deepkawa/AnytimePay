@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rounded_button.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\a4bf7f0d0ce7f38c6d6cfa9770663d67b8ea1f98\\output\\res\\drawable-v21\\rounded_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

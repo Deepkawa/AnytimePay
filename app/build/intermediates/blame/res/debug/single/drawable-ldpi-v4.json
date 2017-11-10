@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_google.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\a26b86c35ea41d2003f5b0cd524988d3700a4b1f\\output\\res\\drawable-ldpi-v4\\ic_google.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_googleg_color_24dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\drawable-ldpi-v4\\ic_googleg_color_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ff86320b6f1a1593efde1a3e2a9f42548e58a9af\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_settings_phone_white_24dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\drawable-ldpi-v4\\ic_settings_phone_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_twitter.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\a26b86c35ea41d2003f5b0cd524988d3700a4b1f\\output\\res\\drawable-ldpi-v4\\ic_twitter.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\done_check_mark.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\drawable-ldpi-v4\\done_check_mark.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_facebook_white_22dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\drawable-ldpi-v4\\ic_facebook_white_22dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_mail_white_24dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\drawable-ldpi-v4\\ic_mail_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_twitter_bird_white_24dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\drawable-ldpi-v4\\ic_twitter_bird_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_facebook.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\a26b86c35ea41d2003f5b0cd524988d3700a4b1f\\output\\res\\drawable-ldpi-v4\\ic_facebook.png"
+    }
+]

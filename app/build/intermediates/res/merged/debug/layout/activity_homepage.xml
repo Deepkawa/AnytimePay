@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.coc.deep.anytimepay.Homepage">
+    <TextView
+        android:id="@+id/hi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center"
+        android:textColor="@color/colorPrimary"
+
+        android:text="HI NAME! \n Your balance is \n $1000"
+        android:textSize="20dp"
+        android:layout_marginBottom="10dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/command">
+
+    <ImageView
+        android:padding="10dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:src="@drawable/chat"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/colorPrimary"
+            android:clickable="false"
+            android:text="CHAT"
+            android:textSize="20dp"
+            android:layout_marginTop="30dp"
+            />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/faq">
+        <ImageView
+            android:padding="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:src="@drawable/faq"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="FAQ"
+        android:clickable="false"
+        android:textColor="@color/colorPrimary"
+
+
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"
+        />
+</LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/logout">
+        <ImageView
+            android:padding="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:src="@drawable/logout"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="LOGOUT"
+            android:clickable="false"
+            android:textColor="@color/colorPrimary"
+
+
+            android:textSize="20dp"
+            android:layout_marginTop="30dp"
+            />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000"/>
+
+
+</LinearLayout>

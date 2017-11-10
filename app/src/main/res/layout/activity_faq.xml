@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.coc.deep.anytimepay.FAQ">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Bouncing of a cheque
+When an account has insufficient funds the cheque is is not payable and is returned by the
+bank with a reason “Exceeds arrangement” or “funds insufficient”.
+
+\n\n\n
+
+
+Bank Rate
+It is the rate of interest charged by a central bank to commercial banks on the advances and the
+loans it extends.
+
+\n\n\n
+
+
+Cheque
+It is written by an individual to transfer amount between two accounts of the same bank or a
+different bank and the money is withdrawn form the account.
+
+\n\n\n
+
+
+Core Banking Solutions (CBS)
+In this all the branches of the bank are connected together and the customer can access his/her
+funds or transactions from any other branch.
+\n\n\n
+
+
+
+CRR (Cash Reverse Ratio)
+the amount of funds that a bank keep with the RBI. If the percentage of CRR increases then the
+amount with the bank comes down.
+
+\n\n\n
+
+
+Debit Card
+It is a card issued by the bank so the customers can withdraw their money from their account
+electronically.
+
+\n\n\n
+
+
+Demat Account
+The way in which a bank keeps money in a deposit account in the same way the Depository
+company converts share certificates into electronic form and keep them in a Demat account.
+\n\n\n
+
+
+
+E-Banking
+It is a type of banking in which we can conduct financial transactions electronically. RTGS, Credit
+cards, Debit cards etc come under this category.
+\n\n\n
+
+
+
+EFT – (Electronic Fund Transfer)
+In this we use Automatic teller machine, wire transfer and computers to move funds between
+different accounts in different or same bank.
+
+
+\n\n\n
+
+Fiscal Deficit
+It is the amount of Funds borrowed by the government to meet the expenditures.
+\n\n\n
+
+
+
+Initial Public Offering (IPO)
+It is the time when a company makes the first offering of the shares to the pubic.
+\n\n\n
+
+
+
+Leverage Ratio
+It is a financial ratio which gives us an idea or a measure of a company’s ability to meet its
+financial losses.
+
+\n\n\n
+
+
+Liquidity
+It is the ability of converting an investment quickly into cash with no loss in value.
+
+
+\n\n\n
+
+Market Capitalization
+The product of the share price and number of the company’s outstanding ordinary shares.
+
+
+\n\n\n
+Mortgage
+It is a kind of security which one offers for taking an advance or loan from someone.
+"
+    android:padding="20dp"
+    android:textStyle="bold"/>
+
+</ScrollView>

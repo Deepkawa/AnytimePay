@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_large_white.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\15669d69b3478ec149ad10b1dfd05312209e041e\\output\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_email_white_18dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\a4bf7f0d0ce7f38c6d6cfa9770663d67b8ea1f98\\output\\res\\drawable-xxhdpi-v4\\ic_email_white_18dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\15669d69b3478ec149ad10b1dfd05312209e041e\\output\\res\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\01df919f8609a43a40099e23bfc2321f1ade31a7\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\01df919f8609a43a40099e23bfc2321f1ade31a7\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_facebook.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\a26b86c35ea41d2003f5b0cd524988d3700a4b1f\\output\\res\\drawable-xxhdpi-v4\\ic_facebook.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_icon_white.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\15669d69b3478ec149ad10b1dfd05312209e041e\\output\\res\\drawable-xxhdpi-v4\\com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\15669d69b3478ec149ad10b1dfd05312209e041e\\output\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\01df919f8609a43a40099e23bfc2321f1ade31a7\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_google.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\a26b86c35ea41d2003f5b0cd524988d3700a4b1f\\output\\res\\drawable-xxhdpi-v4\\ic_google.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ff86320b6f1a1593efde1a3e2a9f42548e58a9af\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\15669d69b3478ec149ad10b1dfd05312209e041e\\output\\res\\drawable-xxhdpi-v4\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ff86320b6f1a1593efde1a3e2a9f42548e58a9af\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\280528c4cc15561a980fdbda8bf73daf863cf020\\output\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_icon_blue.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\15669d69b3478ec149ad10b1dfd05312209e041e\\output\\res\\drawable-xxhdpi-v4\\com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_facebook_white_22dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\drawable-xxhdpi-v4\\ic_facebook_white_22dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_small_white.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\15669d69b3478ec149ad10b1dfd05312209e041e\\output\\res\\drawable-xxhdpi-v4\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\01df919f8609a43a40099e23bfc2321f1ade31a7\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ff86320b6f1a1593efde1a3e2a9f42548e58a9af\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\15669d69b3478ec149ad10b1dfd05312209e041e\\output\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\01df919f8609a43a40099e23bfc2321f1ade31a7\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_settings_phone_white_24dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\drawable-xxhdpi-v4\\ic_settings_phone_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\\output\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\logo_googleg_color_18dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\a4bf7f0d0ce7f38c6d6cfa9770663d67b8ea1f98\\output\\res\\drawable-xxhdpi-v4\\logo_googleg_color_18dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\01df919f8609a43a40099e23bfc2321f1ade31a7\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ff86320b6f1a1593efde1a3e2a9f42548e58a9af\\output\\res\\drawable-xxhdpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ff86320b6f1a1593efde1a3e2a9f42548e58a9af\\output\\res\\drawable-xxhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\01df919f8609a43a40099e23bfc2321f1ade31a7\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\01df919f8609a43a40099e23bfc2321f1ade31a7\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\cc11e1d886af6ee0670c65dcb27d16bfec4b6a53\\output\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\01df919f8609a43a40099e23bfc2321f1ade31a7\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\done_check_mark.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\drawable-xxhdpi-v4\\done_check_mark.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_send_icon_white.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\15669d69b3478ec149ad10b1dfd05312209e041e\\output\\res\\drawable-xxhdpi-v4\\com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_googleg_color_24dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\drawable-xxhdpi-v4\\ic_googleg_color_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fab_add.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ecc0e294dcebaa3e2d9cec37fa3e3b415841dd0a\\output\\res\\drawable-xxhdpi-v4\\fab_add.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\280528c4cc15561a980fdbda8bf73daf863cf020\\output\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\01df919f8609a43a40099e23bfc2321f1ade31a7\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_favicon_white.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\15669d69b3478ec149ad10b1dfd05312209e041e\\output\\res\\drawable-xxhdpi-v4\\com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\280528c4cc15561a980fdbda8bf73daf863cf020\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\280528c4cc15561a980fdbda8bf73daf863cf020\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\280528c4cc15561a980fdbda8bf73daf863cf020\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\ff86320b6f1a1593efde1a3e2a9f42548e58a9af\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mail_white_24dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\drawable-xxhdpi-v4\\ic_mail_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\01df919f8609a43a40099e23bfc2321f1ade31a7\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_twitter.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\a26b86c35ea41d2003f5b0cd524988d3700a4b1f\\output\\res\\drawable-xxhdpi-v4\\ic_twitter.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_visibility_off_black_24dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\a4bf7f0d0ce7f38c6d6cfa9770663d67b8ea1f98\\output\\res\\drawable-xxhdpi-v4\\ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_twitter_bird_white_24dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\3ea2067aa05a9729ed2aeb5a74fea31fda40e1c9\\output\\res\\drawable-xxhdpi-v4\\ic_twitter_bird_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\01df919f8609a43a40099e23bfc2321f1ade31a7\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\bc6e4da4d7b4d5154bffeae6a7bce9cf60675762\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_visibility_black_24dp.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\a4bf7f0d0ce7f38c6d6cfa9770663d67b8ea1f98\\output\\res\\drawable-xxhdpi-v4\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\280528c4cc15561a980fdbda8bf73daf863cf020\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\db9a06b785b27c57131393a80459c62c0e3182f9\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\db9a06b785b27c57131393a80459c62c0e3182f9\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\AnytimePay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Deep\\.android\\build-cache\\db9a06b785b27c57131393a80459c62c0e3182f9\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    }
+]
